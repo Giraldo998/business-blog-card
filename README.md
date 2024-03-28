@@ -1,0 +1,1 @@
+solucion al segundo reto en "Responsive web developer" de Devchallenge.io
