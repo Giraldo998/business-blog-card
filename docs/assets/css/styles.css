@@ -5,11 +5,15 @@
 	font-family: lato;
 	color: #677489;
 }
+
+body {
+	background-color: #f2f5f9;
+}
 .card-container {
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	margin-top: 164px;
+	margin-top: 145px;
 }
 
 .card-container .card {
